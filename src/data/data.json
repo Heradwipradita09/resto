@@ -1,0 +1,285 @@
+[
+    {
+        "resto": "Warung Amel",
+        "rating": 3,
+        "menu": [
+            {
+                "name": "ayam goreng",
+                "kategori": "ayam",
+                "jml_dipesan": 30,
+                "img": "ayam_goreng_warung_amel.jpg"
+            },
+            {
+                "name": "telur balado",
+                "kategori": "telur",
+                "jml_dipesan": 20
+            },
+            {
+                "name": "tongkol balado",
+                "kategori": "tongkol",
+                "jml_dipesan": 80
+            },
+            {
+                "name": "orek tempe kecap",
+                "kategori": "tempe",
+                "jml_dipesan": 11
+            },
+            {
+                "name": "semur tahu kecap",
+                "kategori": "tahu",
+                "jml_dipesan": 10
+            },
+            {
+                "name": "aqua botol",
+                "kategori": "minuman",
+                "jml_dipesan": 11
+            },
+            {
+                "name": "teh anget",
+                "kategori": "minuman",
+                "jml_dipesan": 10
+            },
+            {
+                "name": "teh tawar",
+                "kategori": "minuman",
+                "jml_dipesan": 8
+            },
+            {
+                "name": "kopi",
+                "kategori": "minuman",
+                "jml_dipesan": 7
+            }
+        ]
+    },
+    {
+        "resto": "Ayam Bakar GAN'S",
+        "rating": 5,
+        "menu": [
+            {
+                "name": "ayam goreng",
+                "kategori": "ayam",
+                "jml_dipesan": 100,
+                "img": "ayam_goreng_gans.jpg"
+            },
+            {
+                "name": "ayam bakar",
+                "kategori": "ayam",
+                "jml_dipesan": 20
+            },
+            {
+                "name": "ayam geprek",
+                "kategori": "ayam",
+                "jml_dipesan": 15
+            },
+            {
+                "name": "ayam kari",
+                "kategori": "ayam",
+                "jml_dipesan": 18
+            },
+            {
+                "name": "lele bakar",
+                "kategori": "lele",
+                "jml_dipesan": 13
+            },
+            {
+                "name": "lele goreng",
+                "kategori": "lele",
+                "jml_dipesan": 17
+            },
+            {
+                "name": "aqua botol",
+                "kategori": "minuman",
+                "jml_dipesan": 14
+            },
+            {
+                "name": "teh botol",
+                "kategori": "minuman",
+                "jml_dipesan": 13
+            },
+            {
+                "name": "nutrisari",
+                "kategori": "minuman",
+                "jml_dipesan": 12
+            },
+            {
+                "name": "kopi",
+                "kategori": "minuman",
+                "jml_dipesan": 14
+            }
+        ]
+    },
+    {
+        "resto": "Kantin IBIK",
+        "rating": 4,
+        "menu": [
+            {
+                "name": "ayam goreng",
+                "kategori": "ayam",
+                "jml_dipesan": 70,
+                "img": "ayam_goreng_kantin_ibik.jpg"
+            },
+            {
+                "name": "telur dadar",
+                "kategori": "telur",
+                "jml_dipesan": 11
+            },
+            {
+                "name": "telur mata sapi",
+                "kategori": "telur",
+                "jml_dipesan": 10
+            },
+            {
+                "name": "indomie rebus",
+                "kategori": "mie",
+                "jml_dipesan": 11
+            },
+            {
+                "name": "indomie goreng",
+                "kategori": "mie",
+                "jml_dipesan": 10
+            },
+            {
+                "name": "mie tek tek",
+                "kategori": "mie",
+                "jml_dipesan": 9
+            },
+            {
+                "name": "pop mie",
+                "kategori": "mie",
+                "jml_dipesan": 12
+            },
+            {
+                "name": "roti bakar",
+                "kategori": "cemilan",
+                "jml_dipesan": 15
+            },
+            {
+                "name": "pisang bakar",
+                "kategori": "cemilan",
+                "jml_dipesan": 10
+            },
+            {
+                "name": "kentang goreng",
+                "kategori": "cemilan",
+                "jml_dipesan": 13
+            },
+            {
+                "name": "aqua botol",
+                "kategori": "minuman",
+                "jml_dipesan": 13
+            },
+            {
+                "name": "kopi",
+                "kategori": "minuman",
+                "jml_dipesan": 12
+            },
+            {
+                "name": "teh tawar",
+                "kategori": "minuman",
+                "jml_dipesan": 10
+            },
+            {
+                "name": "teh manis",
+                "kategori": "minuman",
+                "jml_dipesan": 9
+            },
+            {
+                "name": "milo",
+                "kategori": "minuman",
+                "jml_dipesan": 10
+            },
+            {
+                "name": "nutrisari",
+                "kategori": "minuman",
+                "jml_dipesan": 11
+            }
+        ]
+    },
+    {
+        "resto": "Mie Ayam Acil",
+        "rating": 2,
+        "menu": [
+            {
+                "name": "mie ayam polos",
+                "kategori": "mie",
+                "jml_dipesan": 30
+            },
+            {
+                "name": "mie ayam bakso",
+                "kategori": "mie",
+                "jml_dipesan": 17
+            },
+            {
+                "name": "mie ayam pangsit",
+                "kategori": "mie",
+                "jml_dipesan": 16
+            },
+            {
+                "name": "pangsit rebus",
+                "kategori": "pangsit",
+                "jml_dipesan": 15
+            },
+            {
+                "name": "kwetiau ayam",
+                "kategori": "kwetiau",
+                "jml_dipesan": 12
+            },
+            {
+                "name": "mie ayam jumbo",
+                "kategori": "mie",
+                "jml_dipesan": 14
+            }
+        ]
+    },
+    {
+        "resto": "Mie Ayam Robby",
+        "rating": 3,
+        "menu": [
+            {
+                "name": "mie ayam polos",
+                "kategori": "mie",
+                "jml_dipesan": 50
+            },
+            {
+                "name": "mie ayam bakso",
+                "kategori": "mie",
+                "jml_dipesan": 15
+            },
+            {
+                "name": "mie ayam pangsit",
+                "kategori": "mie",
+                "jml_dipesan": 18
+            },
+            {
+                "name": "mie ayam bakso pangsit",
+                "kategori": "mie",
+                "jml_dipesan": 15
+            },
+            {
+                "name": "mie ayam jumbo",
+                "kategori": "mie",
+                "jml_dipesan": 17
+            },
+            {
+                "name": "kwetiau ayam",
+                "kategori": "kwetiau",
+                "jml_dipesan": 18
+            },
+            {
+                "name": "kwetiau pangsit",
+                "kategori": "kwetiau",
+                "jml_dipesan": 10
+            },
+            {
+                "name": "pangsit kuah",
+                "kategori": "pangsit",
+                "jml_dipesan": 8
+            },
+            {
+                "name": "pangsit goreng",
+                "kategori": "pangsit",
+                "jml_dipesan": 7
+            }
+        ]
+    }
+]
